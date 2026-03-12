@@ -1,0 +1,50 @@
+# Cliff – Everything
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+When you're young and in love
+And the world's at your feet
+And your girl thinks you're
+better lookin'
+Than Valentino ever was.
+You cannot go wrong
+Just as long as she's there
+And you'll see things her way
+'Cause more than anythin' else
+you're gonna want her to stay.
+And everything goes out the
+window
+Everything goes out the window
+Everything goes out the window
+Everything goes out the window.
+And in no time at all
+You're both using the same front
+door
+And you cannot believe
+Just how lucky you are to have a
+girl like this.
+So be true to your love
+And don't break her heart
+'Cause if you do, like a bird in
+a cage
+Let it escape it soon flies
+away.
+And everything goes out the
+window
+Everything goes out the window
+Everything goes out the window
+Everything goes out the window.
+INSTRUMENTAL
+So be true to your love
+And don't break her heart
+'Cause if you do, like a bird in
+a cage
+You let it escape it soon flies
+away.
+And everything goes out the
+window
+Everything goes out the window
+Everything goes out the window
+Everything goes out the window.
+```
