@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Everything",
+  "base_artist": "Cliff",
+  "createdAt": "2026-03-12T07:48:15.887013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everything She Ain’t",
+      "artist": "Hailey Whitters",
+      "has_synced": true,
+      "path": "select/01_Everything_She_Ain’t_Hailey_Whitters.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everything I Love",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/02_Everything_I_Love_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everything That Glitters (Is Not Gold)",
+      "artist": "Dan Seals",
+      "has_synced": true,
+      "path": "select/03_Everything_That_Glitters_(Is_Not_Gold)_Dan_Seals.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Hate Everything - 50 Number Ones Version",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/04_I_Hate_Everything_-_50_Number_Ones_Version_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Hate Everything (50 Number Ones Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_I_Hate_Everything_(50_Number_Ones_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Looks Aren't Everything",
+      "artist": "Mark Collie",
+      "has_synced": false,
+      "path": "select/06_Looks_Aren't_Everything_Mark_Collie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Money Ain't Everything",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/07_Money_Ain't_Everything_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Money Ain't Everything (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/08_Money_Ain't_Everything_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "She's Everything",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/09_She's_Everything_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "There Goes My Everything",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/10_There_Goes_My_Everything_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Your Everything",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/11_Your_Everything_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everything",
+      "artist": "王力宏",
+      "has_synced": false,
+      "path": "select/12_Everything_王力宏.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everything Back But You",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/13_Everything_Back_But_You_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everything In The World",
+      "artist": "Wanting",
+      "has_synced": true,
+      "path": "select/14_Everything_In_The_World_Wanting.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everything Goes Out The Window",
+      "artist": "Clifford T. Ward",
+      "has_synced": false,
+      "path": "select/pl_01_Everything_Goes_Out_The_Window_Clifford_T._Ward.txt"
+    }
+  ]
+}
